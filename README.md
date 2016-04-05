@@ -1,0 +1,2 @@
+# newGitText
+Testing Git
